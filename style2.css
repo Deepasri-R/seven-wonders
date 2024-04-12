@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+}
+
+.container {
+    width: 80%; /* Adjust the width as per your design */
+    margin: 0 auto; /* This centers the container horizontally */
+
+}
+
+/* Additional styling for your content */
+.content {
+    text-align: center; /* This centers the text within the container */
+}
+
+table,th,td{
+    border:1px solid black;
+    text-align: center;
+}
